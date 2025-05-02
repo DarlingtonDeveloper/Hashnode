@@ -4,7 +4,6 @@ datePublished: Fri May 02 2025 13:19:38 GMT+0000 (Coordinated Universal Time)
 cuid: cma6tma1s001k09l82qr0c8e8
 slug: the-best-architecture-is-the-one-you-can-maintain
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/P8CGvIQB1uo/upload/7b618f9b22111f7032e624caf7accad3.jpeg
-tags: microservices, technical-debt, software-architecture, devops, scalability, system-design, legacy-systems, backend-engineering, software-engineering-best-practices, maintainable-architecture
 
 ---
 
