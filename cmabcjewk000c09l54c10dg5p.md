@@ -7,7 +7,6 @@ cuid: cmabcjewk000c09l54c10dg5p
 slug: ai-wont-teach-you-to-think-like-a-developer-unless-you-ask-it
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1746464955196/ca120fdb-2c6f-4b24-95ec-a6a9c74d1757.webp
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1746465556900/3a48cb72-2821-46e0-b9c2-d741e9d8f6f4.webp
-tags: artificial-intelligence, system-thinking, critical-thinking, copilot, future-of-ai, code-completion, ai-coding-tools, developer-cognition
 
 ---
 
