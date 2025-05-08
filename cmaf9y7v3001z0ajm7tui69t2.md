@@ -7,7 +7,6 @@ cuid: cmaf9y7v3001z0ajm7tui69t2
 slug: the-architects-illusion
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1746702873637/8489a472-5921-4ac0-a474-d4b83e1d599a.webp
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1746703002597/725d2802-9393-4bb8-969b-9a20cede3854.webp
-tags: technical-debt, software-architecture, devops, scalability, infrastructure, system-design, cloud-native, product-market-fit
 
 ---
 
